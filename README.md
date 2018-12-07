@@ -1,6 +1,6 @@
 #### Reinforcement Learning
 
-###### Implementation is the assignment of pratical reinforcement learning
+###### assignment of pratical reinforcement learning
 
 * [Value Iteration](pratical-rl/week2_model_based/practice_vi.ipynb)
 * [Q-learning](pratical-rl/week3_model_free/qlearning.ipynb)
